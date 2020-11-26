@@ -8,3 +8,5 @@
 3. Hyperparameter Optimization: Tree Parzen Estimator  
 
 4. Libraries: TensorFlow, Keras, NLTK, optuna, scikit-learn, gensim, BeautifulSoup
+
+5. Data: https://www.kaggle.com/aiswaryaramachandran/medium-articles-with-content
