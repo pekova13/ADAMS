@@ -6,3 +6,5 @@
 - cuDNN: an acceleration libray for neural networks by Nvidia; due to GPU use, the library speeds up the fitting significantly
 
 3. Hyperparameter Optimization: Tree Parzen Estimator  
+
+4. Libraries: TensorFlow, Keras, NLTK, optuna, scikit-learn, gensim, BeautifulSoup
