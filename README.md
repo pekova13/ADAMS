@@ -1,4 +1,4 @@
-### Brief Project Description
+## Brief Project Description
 
 1. Task: Given text from the online publishing platform Medium, create a ML-model to predict the number of claps a post is going to receive based on its content
 
